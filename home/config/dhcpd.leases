@@ -1,0 +1,983 @@
+# The format of this file is documented in the dhcpd.leases(5) manual page.
+# This lease file was written by isc-dhcp-4.1-ESV-R15-P1
+
+# authoring-byte-order entry is generated, DO NOT DELETE
+authoring-byte-order little-endian;
+
+lease 192.168.1.137 {
+  starts 1 2015/01/05 14:10:50;
+  ends 2 2015/01/06 14:10:50;
+#shared-network: LAN
+  tstp 2 2015/01/06 14:10:50;
+  cltt 1 2015/01/05 14:10:50;
+  binding state free;
+  hardware ethernet e8:2a:ea:1d:a3:e9;
+  uid "\001\350*\352\035\243\351";
+}
+lease 192.168.1.132 {
+  starts 2 2015/01/06 20:42:08;
+  ends 3 2015/01/07 20:42:08;
+#shared-network: LAN
+  tstp 3 2015/01/07 20:42:08;
+  cltt 2 2015/01/06 20:42:08;
+  binding state free;
+  hardware ethernet ec:88:92:5f:56:61;
+  uid "\001\354\210\222_Va";
+}
+lease 192.168.1.136 {
+  starts 2 2015/01/06 20:42:21;
+  ends 3 2015/01/07 20:42:21;
+#shared-network: LAN
+  tstp 3 2015/01/07 20:42:21;
+  cltt 2 2015/01/06 20:42:21;
+  binding state free;
+  hardware ethernet 44:80:eb:4d:4b:35;
+  uid "\001D\200\353MK5";
+}
+lease 192.168.1.196 {
+  starts 1 2015/02/09 14:12:15;
+  ends 2 2015/02/10 14:12:15;
+#shared-network: LAN
+  tstp 2 2015/02/10 14:12:15;
+  cltt 1 2015/02/09 14:12:15;
+  binding state free;
+  hardware ethernet b4:ae:2b:d5:e9:66;
+  uid "\001\264\256+\325\351f";
+}
+lease 192.168.1.149 {
+  starts 4 2015/03/05 10:15:50;
+  ends 5 2015/03/06 10:15:50;
+#shared-network: LAN
+  tstp 5 2015/03/06 10:15:50;
+  cltt 4 2015/03/05 10:15:50;
+  binding state free;
+  hardware ethernet 80:7a:bf:36:6a:21;
+  uid "\001\200z\2776j!";
+}
+lease 192.168.1.146 {
+  starts 4 2015/03/05 10:16:37;
+  ends 5 2015/03/06 10:16:37;
+#shared-network: LAN
+  tstp 5 2015/03/06 10:16:37;
+  cltt 4 2015/03/05 10:16:37;
+  binding state free;
+  hardware ethernet 80:7a:bf:36:6a:1c;
+  uid "\001\200z\2776j\034";
+}
+lease 192.168.1.128 {
+  starts 5 2015/03/06 16:56:18;
+  ends 6 2015/03/07 16:56:18;
+#shared-network: LAN
+  tstp 6 2015/03/07 16:56:18;
+  cltt 5 2015/03/06 16:56:18;
+  binding state free;
+  hardware ethernet 6c:ad:f8:61:ca:8b;
+}
+lease 192.168.1.135 {
+  starts 2 2015/03/10 14:00:02;
+  ends 3 2015/03/11 14:00:02;
+#shared-network: LAN
+  tstp 3 2015/03/11 14:00:02;
+  cltt 2 2015/03/10 14:00:02;
+  binding state free;
+  hardware ethernet f0:27:2d:7f:fe:71;
+}
+lease 192.168.1.70 {
+  starts 5 2015/03/13 18:23:37;
+  ends 6 2015/03/14 18:23:37;
+#shared-network: LAN
+  tstp 6 2015/03/14 18:23:37;
+  cltt 5 2015/03/13 18:23:37;
+  binding state free;
+  hardware ethernet f0:27:2d:ad:97:62;
+}
+lease 192.168.1.45 {
+  starts 3 2015/04/08 21:14:58;
+  ends 4 2015/04/09 21:14:58;
+#shared-network: LAN
+  tstp 4 2015/04/09 21:14:58;
+  cltt 3 2015/04/08 21:14:58;
+  binding state free;
+  hardware ethernet a4:5e:60:ee:86:dd;
+  uid "\001\244^`\356\206\335";
+}
+lease 192.168.1.145 {
+  starts 3 2015/05/06 14:01:17;
+  ends 4 2015/05/07 14:01:17;
+#shared-network: LAN
+  tstp 4 2015/05/07 14:01:17;
+  cltt 3 2015/05/06 14:01:17;
+  binding state free;
+  hardware ethernet 10:f1:f2:47:57:e5;
+  uid "\001\020\361\362GW\345";
+}
+lease 192.168.1.141 {
+  starts 0 2015/05/10 11:37:00;
+  ends 1 2015/05/11 11:37:00;
+#shared-network: LAN
+  tstp 1 2015/05/11 11:37:00;
+  cltt 0 2015/05/10 11:37:00;
+  binding state free;
+  hardware ethernet 40:4e:36:0b:8c:1e;
+  uid "\001@N6\013\214\036";
+}
+lease 192.168.1.126 {
+  starts 6 2015/05/23 08:58:35;
+  ends 0 2015/05/24 08:58:35;
+#shared-network: LAN
+  tstp 0 2015/05/24 08:58:35;
+  cltt 6 2015/05/23 08:58:35;
+  binding state free;
+  hardware ethernet 48:bf:6b:76:3c:26;
+  uid "\001H\277kv<&";
+}
+lease 192.168.1.218 {
+  starts 3 2015/05/27 07:33:36;
+  ends 4 2015/05/28 07:33:36;
+#shared-network: LAN
+  tstp 4 2015/05/28 07:33:36;
+  cltt 3 2015/05/27 07:33:36;
+  binding state free;
+  hardware ethernet 3c:28:6d:d7:2a:75;
+  uid "\001<(m\327*u";
+}
+lease 192.168.1.208 {
+  starts 5 2015/06/05 05:20:27;
+  ends 6 2015/06/06 05:20:27;
+#shared-network: LAN
+  tstp 6 2015/06/06 05:20:27;
+  cltt 5 2015/06/05 05:20:27;
+  binding state free;
+  hardware ethernet fa:46:f4:30:15:57;
+  uid "\001\372F\3640\025W";
+}
+lease 192.168.1.222 {
+  starts 2 2015/06/30 22:24:34;
+  ends 3 2015/07/01 22:24:34;
+#shared-network: LAN
+  tstp 3 2015/07/01 22:24:34;
+  cltt 2 2015/06/30 22:24:34;
+  binding state free;
+  hardware ethernet c4:1c:ff:fc:53:19;
+}
+lease 192.168.1.219 {
+  starts 2 2015/07/28 01:41:02;
+  ends 3 2015/07/29 01:41:02;
+#shared-network: LAN
+  tstp 3 2015/07/29 01:41:02;
+  cltt 2 2015/07/28 01:41:02;
+  binding state free;
+  hardware ethernet d2:25:c6:13:f8:e0;
+  uid "\001\322%\306\023\370\340";
+}
+lease 192.168.1.39 {
+  starts 3 2015/08/05 23:23:54;
+  ends 3 2015/08/05 23:25:54;
+#shared-network: LAN
+  tstp 3 2015/08/05 23:25:54;
+  cltt 3 2015/08/05 23:23:54;
+  binding state free;
+  hardware ethernet 60:b4:f7:01:f5:84;
+  uid "\001`\264\367\001\365\204";
+}
+lease 192.168.1.50 {
+  starts 2 2017/04/25 14:52:03;
+  ends 2 2017/04/25 14:52:44;
+#shared-network: LAN
+  tstp 2 2017/04/25 14:52:44;
+  cltt 2 2017/04/25 14:52:03;
+  binding state free;
+  hardware ethernet 00:00:85:c3:90:52;
+}
+lease 192.168.1.38 {
+  starts 2 2017/04/25 00:29:28;
+  ends 3 2017/04/26 00:29:28;
+#shared-network: LAN
+  tstp 3 2017/04/26 00:29:28;
+  cltt 2 2017/04/25 00:29:28;
+  binding state free;
+  hardware ethernet 00:23:56:4c:62:97;
+  uid "\001\000#VLb\227";
+}
+lease 192.168.1.131 {
+  starts 5 2017/05/12 06:40:16;
+  ends 6 2017/05/13 06:40:16;
+#shared-network: LAN
+  tstp 6 2017/05/13 06:40:16;
+  cltt 5 2017/05/12 06:40:16;
+  binding state free;
+  hardware ethernet 00:19:9d:3f:db:66;
+}
+lease 192.168.1.127 {
+  starts 5 2017/05/12 23:34:11;
+  ends 6 2017/05/13 23:34:11;
+#shared-network: LAN
+  tstp 6 2017/05/13 23:34:11;
+  cltt 5 2017/05/12 23:34:11;
+  binding state free;
+  hardware ethernet e4:ce:8f:43:ff:68;
+  uid "\001\344\316\217C\377h";
+}
+lease 192.168.1.134 {
+  starts 6 2017/05/13 01:04:47;
+  ends 0 2017/05/14 01:04:47;
+#shared-network: LAN
+  tstp 0 2017/05/14 01:04:47;
+  cltt 6 2017/05/13 01:04:47;
+  binding state free;
+  hardware ethernet 44:65:0d:22:c4:88;
+  uid "\001De\015\"\304\210";
+}
+lease 192.168.1.125 {
+  starts 2 2017/11/28 03:06:23;
+  ends 3 2017/11/29 03:06:23;
+#shared-network: LAN
+  tstp 3 2017/11/29 03:06:23;
+  cltt 2 2017/11/28 03:06:23;
+  binding state free;
+  hardware ethernet 5c:96:9d:8d:31:4d;
+  uid "\001\\\226\235\2151M";
+}
+lease 192.168.1.150 {
+  starts 6 2017/12/30 06:51:31;
+  ends 0 2017/12/31 06:51:31;
+#shared-network: LAN
+  tstp 0 2017/12/31 06:51:31;
+  cltt 6 2017/12/30 06:51:31;
+  binding state free;
+  hardware ethernet cc:29:f5:37:6a:8e;
+  uid "\001\314)\3657j\216";
+}
+lease 192.168.1.143 {
+  starts 0 2018/01/07 23:29:26;
+  ends 1 2018/01/08 23:29:26;
+#shared-network: LAN
+  tstp 1 2018/01/08 23:29:26;
+  cltt 0 2018/01/07 23:29:26;
+  binding state free;
+  hardware ethernet 2c:3a:e8:07:e1:51;
+}
+lease 192.168.1.47 {
+  starts 5 2018/02/23 22:41:00;
+  ends 6 2018/02/24 22:41:00;
+#shared-network: LAN
+  tstp 6 2018/02/24 22:41:00;
+  cltt 5 2018/02/23 22:41:00;
+  binding state free;
+  hardware ethernet 24:da:9b:52:4f:b0;
+  uid "\001$\332\233RO\260";
+}
+lease 192.168.1.46 {
+  starts 5 2018/02/23 22:51:18;
+  ends 6 2018/02/24 22:51:18;
+#shared-network: LAN
+  tstp 6 2018/02/24 22:51:18;
+  cltt 5 2018/02/23 22:51:18;
+  binding state free;
+  hardware ethernet a4:70:d6:a8:9e:fc;
+  uid "\001\244p\326\250\236\374";
+}
+lease 192.168.1.49 {
+  starts 5 2018/02/23 23:21:13;
+  ends 6 2018/02/24 23:21:13;
+#shared-network: LAN
+  tstp 6 2018/02/24 23:21:13;
+  cltt 5 2018/02/23 23:21:13;
+  binding state free;
+  hardware ethernet 44:80:eb:e8:b8:18;
+  uid "\001D\200\353\350\270\030";
+}
+lease 192.168.1.48 {
+  starts 4 2018/04/05 04:10:00;
+  ends 5 2018/04/06 04:10:00;
+#shared-network: LAN
+  tstp 5 2018/04/06 04:10:00;
+  cltt 4 2018/04/05 04:10:00;
+  binding state free;
+  hardware ethernet c0:4a:00:14:8c:20;
+  uid "\001\300J\000\024\214 ";
+}
+lease 192.168.1.202 {
+  starts 0 2019/02/10 10:48:22;
+  ends 1 2019/02/11 10:48:22;
+#shared-network: LAN
+  tstp 1 2019/02/11 10:48:22;
+  cltt 0 2019/02/10 10:48:22;
+  binding state free;
+  hardware ethernet 8c:85:90:c9:df:21;
+  uid "\001\214\205\220\311\337!";
+}
+lease 192.168.1.139 {
+  starts 2 2019/03/26 02:05:52;
+  ends 2 2019/03/26 02:16:31;
+#shared-network: LAN
+  tstp 2 2019/03/26 02:16:31;
+  cltt 2 2019/03/26 02:05:52;
+  binding state free;
+  hardware ethernet 8c:85:90:3f:fa:02;
+  uid "\001\214\205\220?\372\002";
+}
+lease 192.168.1.233 {
+  starts 2 2019/04/09 11:17:54;
+  ends 3 2019/04/10 11:17:54;
+#shared-network: LAN
+  tstp 3 2019/04/10 11:17:54;
+  cltt 2 2019/04/09 11:17:54;
+  binding state free;
+  hardware ethernet 78:4f:43:a7:26:4f;
+  uid "\001xOC\247&O";
+}
+lease 192.168.1.224 {
+  starts 0 2019/07/21 06:03:42;
+  ends 1 2019/07/22 06:03:42;
+#shared-network: LAN
+  tstp 1 2019/07/22 06:03:42;
+  cltt 0 2019/07/21 06:03:42;
+  binding state free;
+  hardware ethernet 18:f1:d8:a8:a8:5c;
+  uid "\001\030\361\330\250\250\\";
+}
+lease 192.168.1.201 {
+  starts 0 2019/08/18 16:03:00;
+  ends 1 2019/08/19 16:03:00;
+#shared-network: LAN
+  tstp 1 2019/08/19 16:03:00;
+  cltt 0 2019/08/18 16:03:00;
+  binding state free;
+  hardware ethernet 4c:ef:c0:79:25:cf;
+}
+lease 192.168.1.211 {
+  starts 1 2019/08/19 09:41:34;
+  ends 2 2019/08/20 09:41:34;
+#shared-network: LAN
+  tstp 2 2019/08/20 09:41:34;
+  cltt 1 2019/08/19 09:41:34;
+  binding state free;
+  hardware ethernet 00:fc:8b:f5:41:37;
+  uid "\001\000\374\213\365A7";
+}
+lease 192.168.1.200 {
+  starts 1 2019/08/19 10:48:29;
+  ends 2 2019/08/20 10:48:29;
+#shared-network: LAN
+  tstp 2 2019/08/20 10:48:29;
+  cltt 1 2019/08/19 10:48:29;
+  binding state free;
+  hardware ethernet f0:81:73:81:b9:56;
+}
+lease 192.168.1.214 {
+  starts 1 2019/08/19 23:18:43;
+  ends 2 2019/08/20 23:18:43;
+#shared-network: LAN
+  tstp 2 2019/08/20 23:18:43;
+  cltt 1 2019/08/19 23:18:43;
+  binding state free;
+  hardware ethernet d8:1c:79:85:be:2f;
+  uid "\001\330\034y\205\276/";
+}
+lease 192.168.1.153 {
+  starts 6 2019/09/21 01:27:48;
+  ends 0 2019/09/22 01:27:48;
+#shared-network: LAN
+  tstp 0 2019/09/22 01:27:48;
+  cltt 6 2019/09/21 01:27:48;
+  binding state free;
+  hardware ethernet b4:f7:a1:bd:1c:03;
+  uid "\001\264\367\241\275\034\003";
+}
+lease 192.168.1.156 {
+  starts 4 2019/11/21 03:12:28;
+  ends 5 2019/11/22 03:12:28;
+#shared-network: LAN
+  tstp 5 2019/11/22 03:12:28;
+  cltt 4 2019/11/21 03:12:28;
+  binding state free;
+  hardware ethernet f0:7b:cb:48:b0:74;
+  uid "\001\360{\313H\260t";
+}
+lease 192.168.1.226 {
+  starts 3 2019/11/27 17:34:51;
+  ends 4 2019/11/28 17:34:51;
+#shared-network: LAN
+  tstp 4 2019/11/28 17:34:51;
+  cltt 3 2019/11/27 17:34:51;
+  binding state free;
+  hardware ethernet 3c:28:6d:d4:f9:2a;
+  uid "\001<(m\324\371*";
+}
+lease 192.168.1.238 {
+  starts 3 2019/11/27 19:45:34;
+  ends 4 2019/11/28 19:45:34;
+#shared-network: LAN
+  tstp 4 2019/11/28 19:45:34;
+  cltt 3 2019/11/27 19:45:34;
+  binding state free;
+  hardware ethernet 34:f3:9a:be:7d:1e;
+  uid "\0014\363\232\276}\036";
+}
+lease 192.168.1.227 {
+  starts 3 2019/12/04 13:19:00;
+  ends 4 2019/12/05 13:19:00;
+#shared-network: LAN
+  tstp 4 2019/12/05 13:19:00;
+  cltt 3 2019/12/04 13:19:00;
+  binding state free;
+  hardware ethernet de:2d:e6:2d:e3:5f;
+  uid "\001\336-\346-\343_";
+}
+lease 192.168.1.198 {
+  starts 0 2019/12/15 10:37:49;
+  ends 1 2019/12/16 10:37:49;
+#shared-network: LAN
+  tstp 1 2019/12/16 10:37:49;
+  cltt 0 2019/12/15 10:37:49;
+  binding state free;
+  hardware ethernet 38:8b:59:03:7f:f6;
+}
+lease 192.168.1.243 {
+  starts 6 2019/12/21 07:33:20;
+  ends 0 2019/12/22 07:33:20;
+#shared-network: LAN
+  tstp 0 2019/12/22 07:33:20;
+  cltt 6 2019/12/21 07:33:20;
+  binding state free;
+  hardware ethernet 10:f1:f2:47:86:20;
+  uid "\001\020\361\362G\206 ";
+}
+lease 192.168.1.240 {
+  starts 4 2020/01/02 17:03:06;
+  ends 5 2020/01/03 17:03:06;
+#shared-network: LAN
+  tstp 5 2020/01/03 17:03:06;
+  cltt 4 2020/01/02 17:03:06;
+  binding state free;
+  hardware ethernet 18:93:7f:7d:3b:70;
+  uid "\377\177};p\000\001\000\001\307\222\275z\030\223\177};p";
+}
+lease 192.168.1.199 {
+  starts 6 2020/01/25 01:17:56;
+  ends 0 2020/01/26 01:17:56;
+#shared-network: LAN
+  tstp 0 2020/01/26 01:17:56;
+  cltt 6 2020/01/25 01:17:56;
+  binding state free;
+  hardware ethernet fc:a1:83:64:a4:77;
+}
+lease 192.168.1.231 {
+  starts 6 2020/01/25 18:13:38;
+  ends 0 2020/01/26 18:13:38;
+#shared-network: LAN
+  tstp 0 2020/01/26 18:13:38;
+  cltt 6 2020/01/25 18:13:38;
+  binding state free;
+  hardware ethernet 60:83:73:84:e4:4b;
+  uid "\001`\203s\204\344K";
+}
+lease 192.168.1.229 {
+  starts 5 2020/02/21 19:14:51;
+  ends 6 2020/02/22 19:14:51;
+#shared-network: LAN
+  tstp 6 2020/02/22 19:14:51;
+  cltt 5 2020/02/21 19:14:51;
+  binding state free;
+  hardware ethernet 00:e0:4c:05:05:56;
+  uid "\001\000\340L\005\005V";
+}
+lease 192.168.1.241 {
+  starts 4 2020/03/12 15:10:59;
+  ends 5 2020/03/13 15:10:59;
+#shared-network: LAN
+  tstp 5 2020/03/13 15:10:59;
+  cltt 4 2020/03/12 15:10:59;
+  binding state free;
+  hardware ethernet 18:93:7f:7d:3b:70;
+  uid "\377\177};p\000\001\000\001%\240\375\225\030\223\177};p";
+}
+lease 192.168.1.221 {
+  starts 4 2020/04/09 15:44:09;
+  ends 5 2020/04/10 15:44:09;
+#shared-network: LAN
+  tstp 5 2020/04/10 15:44:09;
+  cltt 4 2020/04/09 15:44:09;
+  binding state free;
+  hardware ethernet 0c:80:63:65:6c:70;
+  uid "\001\014\200celp";
+}
+lease 192.168.1.216 {
+  starts 4 2020/04/09 15:44:18;
+  ends 5 2020/04/10 15:44:18;
+#shared-network: LAN
+  tstp 5 2020/04/10 15:44:18;
+  cltt 4 2020/04/09 15:44:18;
+  binding state free;
+  hardware ethernet 0c:80:63:f9:38:9e;
+  uid "\001\014\200c\3718\236";
+}
+lease 192.168.1.228 {
+  starts 2 2020/04/14 21:05:57;
+  ends 3 2020/04/15 21:05:57;
+#shared-network: LAN
+  tstp 3 2020/04/15 21:05:57;
+  cltt 2 2020/04/14 21:05:57;
+  binding state free;
+  hardware ethernet 18:93:7f:7d:3b:70;
+  uid "\377\177};p\000\001\000\001%\375\224\224\030\223\177};p";
+}
+lease 192.168.1.232 {
+  starts 0 2020/05/17 23:45:09;
+  ends 1 2020/05/18 23:45:09;
+#shared-network: LAN
+  tstp 1 2020/05/18 23:45:09;
+  cltt 0 2020/05/17 23:45:09;
+  binding state free;
+  hardware ethernet 3c:28:6d:30:2d:a3;
+  uid "\001<(m0-\243";
+}
+lease 192.168.1.217 {
+  starts 2 2020/05/26 03:51:12;
+  ends 3 2020/05/27 03:51:12;
+#shared-network: LAN
+  tstp 3 2020/05/27 03:51:12;
+  cltt 2 2020/05/26 03:51:12;
+  binding state free;
+  hardware ethernet e4:e4:ab:3c:b2:cb;
+  uid "\001\344\344\253<\262\313";
+}
+lease 192.168.1.213 {
+  starts 2 2020/06/02 04:58:54;
+  ends 3 2020/06/03 04:58:54;
+#shared-network: LAN
+  tstp 3 2020/06/03 04:58:54;
+  cltt 2 2020/06/02 04:58:54;
+  binding state free;
+  hardware ethernet 18:93:7f:7d:3b:70;
+  uid "\377\177};p\000\001\000\001&)\353\212\030\223\177};p";
+}
+lease 192.168.1.147 {
+  starts 3 2020/06/03 01:06:11;
+  ends 4 2020/06/04 01:06:11;
+#shared-network: LAN
+  tstp 4 2020/06/04 01:06:11;
+  cltt 3 2020/06/03 01:06:11;
+  binding state free;
+  hardware ethernet b4:ae:2b:d5:e9:66;
+  uid "\001\264\256+\325\351f";
+}
+lease 192.168.1.225 {
+  starts 4 2020/07/30 01:52:02;
+  ends 5 2020/07/31 01:52:02;
+#shared-network: LAN
+  tstp 5 2020/07/31 01:52:02;
+  cltt 4 2020/07/30 01:52:02;
+  binding state free;
+  hardware ethernet 9c:64:8b:c4:0d:01;
+  uid "\001\234d\213\304\015\001";
+}
+lease 192.168.1.159 {
+  starts 4 2020/07/30 08:07:58;
+  ends 5 2020/07/31 08:07:58;
+#shared-network: LAN
+  tstp 5 2020/07/31 08:07:58;
+  cltt 4 2020/07/30 08:07:58;
+  binding state free;
+  hardware ethernet 04:72:95:a3:81:4b;
+  uid "\001\004r\225\243\201K";
+}
+lease 192.168.1.148 {
+  starts 4 2020/07/30 16:30:49;
+  ends 5 2020/07/31 16:30:49;
+#shared-network: LAN
+  tstp 5 2020/07/31 16:30:49;
+  cltt 4 2020/07/30 16:30:49;
+  binding state free;
+  hardware ethernet d4:61:9d:0b:5d:58;
+  uid "\001\324a\235\013]X";
+}
+lease 192.168.1.158 {
+  starts 4 2020/07/30 18:54:18;
+  ends 5 2020/07/31 18:54:18;
+#shared-network: LAN
+  tstp 5 2020/07/31 18:54:18;
+  cltt 4 2020/07/30 18:54:18;
+  binding state free;
+  hardware ethernet f0:a3:5a:0c:48:9a;
+  uid "\001\360\243Z\014H\232";
+}
+lease 192.168.1.197 {
+  starts 4 2020/07/30 18:54:28;
+  ends 5 2020/07/31 18:54:28;
+#shared-network: LAN
+  tstp 5 2020/07/31 18:54:28;
+  cltt 4 2020/07/30 18:54:28;
+  binding state free;
+  hardware ethernet f0:27:2d:1c:45:6d;
+}
+lease 192.168.1.161 {
+  starts 4 2020/07/30 18:54:31;
+  ends 5 2020/07/31 18:54:31;
+#shared-network: LAN
+  tstp 5 2020/07/31 18:54:31;
+  cltt 4 2020/07/30 18:54:31;
+  binding state free;
+  hardware ethernet d8:0b:9a:bc:51:10;
+  uid "\001\330\013\232\274Q\020";
+}
+lease 192.168.1.162 {
+  starts 4 2020/07/30 18:54:39;
+  ends 5 2020/07/31 18:54:39;
+#shared-network: LAN
+  tstp 5 2020/07/31 18:54:39;
+  cltt 4 2020/07/30 18:54:39;
+  binding state free;
+  hardware ethernet 70:bc:10:69:59:b8;
+  uid "\001p\274\020iY\270";
+}
+lease 192.168.1.133 {
+  starts 5 2020/07/31 18:42:48;
+  ends 6 2020/08/01 18:42:48;
+#shared-network: LAN
+  tstp 6 2020/08/01 18:42:48;
+  cltt 5 2020/07/31 18:42:48;
+  binding state free;
+  hardware ethernet 44:65:0d:58:85:bf;
+  uid "\001De\015X\205\277";
+}
+lease 192.168.1.212 {
+  starts 6 2020/08/01 21:44:22;
+  ends 0 2020/08/02 21:44:22;
+#shared-network: LAN
+  tstp 0 2020/08/02 21:44:22;
+  cltt 6 2020/08/01 21:44:22;
+  binding state free;
+  hardware ethernet 60:b4:f7:01:f5:84;
+}
+lease 192.168.1.206 {
+  starts 1 2020/08/10 04:58:42;
+  ends 2 2020/08/11 04:58:42;
+#shared-network: LAN
+  tstp 2 2020/08/11 04:58:42;
+  cltt 1 2020/08/10 04:58:42;
+  binding state free;
+  hardware ethernet 18:93:7f:7d:3b:70;
+  uid "\377\177};p\000\001\000\001&h\232+\030\223\177};p";
+}
+lease 192.168.1.140 {
+  starts 4 2020/08/13 18:10:04;
+  ends 4 2020/08/13 19:14:18;
+#shared-network: LAN
+  tstp 4 2020/08/13 19:14:18;
+  cltt 4 2020/08/13 18:10:04;
+  binding state free;
+  hardware ethernet 70:88:6b:82:fe:69;
+  uid "\001p\210k\202\376i";
+}
+lease 192.168.1.203 {
+  starts 5 2020/08/14 18:27:32;
+  ends 6 2020/08/15 18:27:32;
+#shared-network: LAN
+  tstp 6 2020/08/15 18:27:32;
+  cltt 5 2020/08/14 18:27:32;
+  binding state free;
+  hardware ethernet 3c:22:fb:76:4a:fb;
+  uid "\001<\"\373vJ\373";
+}
+lease 192.168.1.142 {
+  starts 6 2020/08/15 08:27:58;
+  ends 6 2020/08/15 18:53:33;
+#shared-network: LAN
+  tstp 6 2020/08/15 18:53:33;
+  cltt 6 2020/08/15 08:27:58;
+  binding state free;
+  hardware ethernet 70:88:6b:82:fd:c2;
+  uid "\001p\210k\202\375\302";
+}
+lease 192.168.1.230 {
+  starts 6 2020/08/15 02:11:23;
+  ends 0 2020/08/16 02:11:23;
+#shared-network: LAN
+  tstp 0 2020/08/16 02:11:23;
+  cltt 6 2020/08/15 02:11:23;
+  binding state free;
+  hardware ethernet a6:8b:a4:7c:98:ed;
+  uid "\001\246\213\244|\230\355";
+}
+lease 192.168.1.130 {
+  starts 6 2020/08/15 21:24:22;
+  ends 0 2020/08/16 21:24:22;
+#shared-network: LAN
+  tstp 0 2020/08/16 21:24:22;
+  cltt 6 2020/08/15 21:24:22;
+  binding state free;
+  hardware ethernet 00:19:9d:3c:9a:4b;
+}
+lease 192.168.1.210 {
+  starts 6 2020/08/15 21:26:18;
+  ends 0 2020/08/16 21:26:18;
+#shared-network: LAN
+  tstp 0 2020/08/16 21:26:18;
+  cltt 6 2020/08/15 21:26:18;
+  binding state free;
+  hardware ethernet 6e:d4:a2:f3:9c:cd;
+  uid "\001n\324\242\363\234\315";
+}
+lease 192.168.1.207 {
+  starts 0 2020/08/16 04:30:26;
+  ends 1 2020/08/17 04:30:26;
+#shared-network: LAN
+  cltt 0 2020/08/16 04:30:26;
+  binding state active;
+  next binding state free;
+  hardware ethernet de:65:e5:67:cf:b3;
+  uid "\001\336e\345g\317\263";
+}
+lease 192.168.1.223 {
+  starts 0 2020/08/16 09:31:13;
+  ends 1 2020/08/17 09:31:13;
+#shared-network: LAN
+  cltt 0 2020/08/16 09:31:13;
+  binding state active;
+  next binding state free;
+  hardware ethernet a0:6a:44:3e:09:3d;
+  client-hostname "viziocastdisplay";
+}
+lease 192.168.1.124 {
+  starts 0 2020/08/16 09:51:17;
+  ends 1 2020/08/17 09:51:17;
+#shared-network: LAN
+  cltt 0 2020/08/16 09:51:17;
+  binding state active;
+  next binding state free;
+  hardware ethernet 10:ae:60:66:41:55;
+  uid "\001\020\256`fAU";
+}
+lease 192.168.1.166 {
+  starts 0 2020/08/16 09:51:51;
+  ends 1 2020/08/17 09:51:51;
+#shared-network: LAN
+  cltt 0 2020/08/16 09:51:51;
+  binding state active;
+  next binding state free;
+  hardware ethernet 08:f8:bc:61:87:ef;
+  uid "\001\010\370\274a\207\357";
+  client-hostname "08f8bc6187ef";
+}
+lease 192.168.1.163 {
+  starts 0 2020/08/16 11:50:03;
+  ends 1 2020/08/17 11:50:03;
+#shared-network: LAN
+  cltt 0 2020/08/16 11:50:03;
+  binding state active;
+  next binding state free;
+  hardware ethernet 18:93:7f:7d:3b:70;
+  uid "\377\177};p\000\001\000\001&\303\376l\030\223\177};p";
+  client-hostname "3f64544f26377d9f450cd0c24017c9fd";
+}
+lease 192.168.1.144 {
+  starts 0 2020/08/16 11:53:48;
+  ends 1 2020/08/17 11:53:48;
+#shared-network: LAN
+  cltt 0 2020/08/16 11:53:48;
+  binding state active;
+  next binding state free;
+  hardware ethernet e4:f0:42:02:19:7b;
+  client-hostname "Google-Home-Mini";
+}
+lease 192.168.1.151 {
+  starts 0 2020/08/16 11:55:56;
+  ends 1 2020/08/17 11:55:56;
+#shared-network: LAN
+  cltt 0 2020/08/16 11:55:56;
+  binding state active;
+  next binding state free;
+  hardware ethernet 54:60:09:e2:f1:76;
+  client-hostname "Chromecast-Audio";
+}
+lease 192.168.1.204 {
+  starts 0 2020/08/16 12:33:40;
+  ends 1 2020/08/17 12:33:40;
+#shared-network: LAN
+  cltt 0 2020/08/16 12:33:40;
+  binding state active;
+  next binding state free;
+  hardware ethernet 00:05:cd:3f:7a:2d;
+  uid "\001\000\005\315?z-";
+  client-hostname "0005CD3F7A2D";
+}
+lease 192.168.1.40 {
+  starts 0 2020/08/16 12:37:03;
+  ends 1 2020/08/17 12:37:03;
+#shared-network: LAN
+  cltt 0 2020/08/16 12:37:03;
+  binding state active;
+  next binding state free;
+  hardware ethernet 60:b4:f7:01:e2:b8;
+  client-hostname "P1K651126500_Pod";
+}
+lease 192.168.1.42 {
+  starts 0 2020/08/16 12:40:33;
+  ends 1 2020/08/17 12:40:33;
+#shared-network: LAN
+  cltt 0 2020/08/16 12:40:33;
+  binding state active;
+  next binding state free;
+  hardware ethernet 60:b4:f7:02:2a:7c;
+  client-hostname "P1K651585800_Pod";
+}
+lease 192.168.1.138 {
+  starts 0 2020/08/16 14:35:20;
+  ends 1 2020/08/17 14:35:20;
+#shared-network: LAN
+  cltt 0 2020/08/16 14:35:20;
+  binding state active;
+  next binding state free;
+  hardware ethernet 8c:85:90:25:f5:88;
+  uid "\001\214\205\220%\365\210";
+  client-hostname "Lauris-MBP";
+}
+lease 192.168.1.239 {
+  starts 0 2020/08/16 16:10:36;
+  ends 1 2020/08/17 16:10:36;
+#shared-network: LAN
+  cltt 0 2020/08/16 16:10:36;
+  binding state active;
+  next binding state free;
+  hardware ethernet a4:cf:12:28:72:cc;
+  client-hostname "espressif";
+}
+lease 192.168.1.220 {
+  starts 0 2020/08/16 17:30:53;
+  ends 1 2020/08/17 17:30:53;
+#shared-network: LAN
+  cltt 0 2020/08/16 17:30:53;
+  binding state active;
+  next binding state free;
+  hardware ethernet b0:be:76:47:a1:e8;
+  uid "\001\260\276vG\241\350";
+  client-hostname "HS200";
+}
+lease 192.168.1.215 {
+  starts 0 2020/08/16 17:30:54;
+  ends 1 2020/08/17 17:30:54;
+#shared-network: LAN
+  cltt 0 2020/08/16 17:30:54;
+  binding state active;
+  next binding state free;
+  hardware ethernet 0c:80:63:7e:5d:ea;
+  uid "\001\014\200c~]\352";
+  client-hostname "HS105";
+}
+lease 192.168.1.120 {
+  starts 0 2020/08/16 19:04:26;
+  ends 1 2020/08/17 19:04:26;
+#shared-network: LAN
+  cltt 0 2020/08/16 19:04:26;
+  binding state active;
+  next binding state free;
+  hardware ethernet 8c:85:90:3f:fa:02;
+  uid "\001\214\205\220?\372\002";
+  client-hostname "Bobs-MBP";
+}
+lease 192.168.1.242 {
+  starts 0 2020/08/16 20:00:07;
+  ends 1 2020/08/17 20:00:07;
+#shared-network: LAN
+  cltt 0 2020/08/16 20:00:07;
+  binding state active;
+  next binding state free;
+  hardware ethernet 00:e0:4c:08:d8:fa;
+  uid "\001\000\340L\010\330\372";
+  client-hostname "08f8bc6187ef";
+}
+lease 192.168.1.234 {
+  starts 0 2020/08/16 20:27:00;
+  ends 1 2020/08/17 20:27:00;
+#shared-network: LAN
+  cltt 0 2020/08/16 20:27:00;
+  binding state active;
+  next binding state free;
+  hardware ethernet 60:b4:f7:f8:3e:c4;
+  client-hostname "4C73700565_Pod_945100100";
+}
+lease 192.168.1.41 {
+  starts 0 2020/08/16 20:30:38;
+  ends 1 2020/08/17 20:30:38;
+#shared-network: LAN
+  cltt 0 2020/08/16 20:30:38;
+  binding state active;
+  next binding state free;
+  hardware ethernet 60:b4:f7:01:e2:d8;
+  client-hostname "P1K651127300_Pod";
+}
+lease 192.168.1.43 {
+  starts 0 2020/08/16 20:36:09;
+  ends 1 2020/08/17 20:36:09;
+#shared-network: LAN
+  cltt 0 2020/08/16 20:36:09;
+  binding state active;
+  next binding state free;
+  hardware ethernet 60:b4:f7:01:f6:78;
+  client-hostname "P1K651252900_Pod";
+}
+lease 192.168.1.235 {
+  starts 0 2020/08/16 20:36:55;
+  ends 1 2020/08/17 20:36:55;
+#shared-network: LAN
+  cltt 0 2020/08/16 20:36:55;
+  binding state active;
+  next binding state free;
+  hardware ethernet 60:b4:f7:f8:36:00;
+  client-hostname "4C737003EF_Pod_945100100";
+}
+lease 192.168.1.44 {
+  starts 0 2020/08/16 20:37:46;
+  ends 1 2020/08/17 20:37:46;
+#shared-network: LAN
+  cltt 0 2020/08/16 20:37:46;
+  binding state active;
+  next binding state free;
+  hardware ethernet 60:b4:f7:02:0c:20;
+  client-hostname "P1K651391500_Pod";
+}
+lease 192.168.1.154 {
+  starts 0 2020/08/16 21:08:07;
+  ends 1 2020/08/17 21:08:07;
+#shared-network: LAN
+  cltt 0 2020/08/16 21:08:07;
+  binding state active;
+  next binding state free;
+  hardware ethernet 40:4e:36:80:ef:a7;
+  uid "\001@N6\200\357\247";
+}
+lease 192.168.1.237 {
+  starts 0 2020/08/16 21:09:16;
+  ends 1 2020/08/17 21:09:16;
+#shared-network: LAN
+  cltt 0 2020/08/16 21:09:16;
+  binding state active;
+  next binding state free;
+  hardware ethernet 58:cb:52:0f:ca:42;
+  uid "\001X\313R\017\312B";
+}
+lease 192.168.1.236 {
+  starts 0 2020/08/16 21:31:16;
+  ends 1 2020/08/17 21:31:16;
+#shared-network: LAN
+  cltt 0 2020/08/16 21:31:16;
+  binding state active;
+  next binding state free;
+  hardware ethernet c4:1c:ff:fc:fb:a4;
+  client-hostname "viziocastdisplay";
+}
+server-duid "\000\001\000\001\0347MF\360\237\302\013\254\014";
+
+lease 192.168.1.242 {
+  starts 0 2020/08/16 21:33:10;
+  ends 1 2020/08/17 21:33:10;
+#shared-network: LAN
+  cltt 0 2020/08/16 21:33:10;
+  binding state active;
+  next binding state free;
+  hardware ethernet 00:e0:4c:08:d8:fa;
+  uid "\001\000\340L\010\330\372";
+  client-hostname "08f8bc6187ef";
+}
